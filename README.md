@@ -1,4 +1,4 @@
-# ```Alphabot-Api```
+# ```Onesan-Api```
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/api-mirip-lolhuman/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/api-mirip-lolhuman?color=blue&style=flat-square"></a>
